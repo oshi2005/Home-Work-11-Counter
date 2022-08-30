@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+button {
+        width: 96px;
+        height: 48px;
+        font-size: 24px;
+        border: none;
+        cursor: pointer;
+        
+        
+        
+}
+.main-icon{
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+
+
+
+    
+
+}
+
+.container{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background: #FFAE6D;
+    place-items: center;
+    display: grid;
+}
